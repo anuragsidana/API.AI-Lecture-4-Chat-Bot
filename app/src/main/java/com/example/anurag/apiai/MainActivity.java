@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+// haha firse bc... comment hi kara hai
 
 
     // Create GetText Metod
